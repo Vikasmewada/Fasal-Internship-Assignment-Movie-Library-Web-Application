@@ -33,3 +33,10 @@ Once a movie is selected, users can view its details, including title, poster im
 Users can add movies to specific playlists, allowing them to organize and manage their favorite movies.
 
 **Removing Movies to Playlists**
+
+
+![Screenshot 1](https://github.com/Vikasmewada/Fasal-Internship-Assignment-Movie-Library-Web-Application/assets/147294204/d7b71e78-6990-496e-9307-d892e17676fe)
+![Screenshot 2](https://github.com/Vikasmewada/Fasal-Internship-Assignment-Movie-Library-Web-Application/assets/147294204/c36d98df-c611-486f-9999-582a2041ae74)
+![Screenshot 3](https://github.com/Vikasmewada/Fasal-Internship-Assignment-Movie-Library-Web-Application/assets/147294204/20ff76dd-ef52-4dfa-a565-4c59b89f0b3b)
+![Screenshot 4](https://github.com/Vikasmewada/Fasal-Internship-Assignment-Movie-Library-Web-Application/assets/147294204/2e4de969-53f2-4017-819f-788cec5b52d9)
+![Screenshot 5](https://github.com/Vikasmewada/Fasal-Internship-Assignment-Movie-Library-Web-Application/assets/147294204/bf5eabfc-dce7-411d-b05a-76a88d4417e2)
